@@ -1,0 +1,7 @@
+.col{
+    max-height: 300px;
+    overflow: hidden;
+}
+.row{
+    padding-top: 2%;
+}
